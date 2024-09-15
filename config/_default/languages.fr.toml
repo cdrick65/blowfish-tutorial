@@ -9,17 +9,17 @@ title = "TARBES POUR TOUS"
   isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  logo = "img/author2.jpg"
+  secondaryLogo = "img/author2.jpg"
+  description = "My awesome website"
+  copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Tarbes pour Tous"
-#   email = "youremail@example.com"
-   image = "img/blowfish_logo.png"
+   name = "Pierre Lagonelle"
+   email = "pierre.lagonelle@orange.fr"
+   image = "img/author.jpg"
 #   imageQuality = 96
-   headline = "Tarbes avec vous,c’est maintenant !"
+   headline = "Tarbes pour Tous"
    bio = "A propos de Tarbes pour tous"
    links = [
      { email = "mailto:pierre.lagonelle@orange.fr" }, #TODO changer an contact@tarbespourtous.fr ou webmaster ou contact ou admin

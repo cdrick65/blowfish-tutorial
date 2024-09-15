@@ -1,10 +1,9 @@
 ---
-title: "Premier post (tutorial)"
+title: "3eme post"
 date: 2024-09-15
 draft: false
 summary: "Ceci est le premier post d'une longue série"
-tags: ["test"]
-menu: "main"
+tags: ["featureless"]
 ---
 
 ## Un sous-titre
