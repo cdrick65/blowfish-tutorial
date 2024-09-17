@@ -2,7 +2,7 @@
 title: "Relançons le centre-ville !"
 date: 2024-09-15
 draft: false
-summary: "Un comité, initié par 'Tarbes Pour Tous', relance le centre-ville de Tarbes avec des propositions audacieuses, basé sur les idées de 200 commerçants."
+summary: "Un comité, initié par 'Tarbes Pour Tous', relance le centre-ville de Tarbes avec des propositions audacieuses basées sur les idées de 200 commerçants."
 tags: ["centre-ville", "commercants"]
 #menu: "main"
 ---
@@ -17,7 +17,13 @@ Notre objectif est clair : proposer des idées novatrices et audacieuses pour re
 
 Ensemble, nous allons transformer cette vision en réalité. Le centre-ville de Tarbes sera à nouveau le lieu incontournable, où habitants et visiteurs voudront se retrouver, pour redécouvrir tout ce qu'il a à offrir.
 
+## Relançons le centre-ville (sersion fun) !
 
+Il fut un temps où le centre-ville de Tarbes rayonnait, où chaque coin de rue était animé par des commerçants heureux, des habitants joyeux… Mais aujourd’hui, nous ne pouvons que contempler ce qu’il reste de cette époque. Entre grandes surfaces et achats en ligne, notre cher centre-ville a lentement sombré dans l’oubli. Et qui pourrait le sauver, avec la paupérisation qui s’installe, les départs massifs vers l’Arsenal et le Méridien, et cette belle taxe foncière qui n'en finit plus d'étrangler les courageux qui restent ?
+
+Mais, rassurez-vous, « Tarbes Pour Tous » est là pour faire un dernier hommage. Nous avons réuni un Comité de Relance, comme un groupe d’amis qui se rassemble pour pleurer la perte d’un proche. Trente personnes, commerçants et habitants, unis dans le deuil d’un centre-ville qui, soyons honnêtes, n’a plus grand-chose à perdre.
+
+Nous avons interrogé 200 commerçants, recueilli leurs dernières volontés. Celles-ci serviront de base à nos futures propositions. Peut-être arriverons-nous à faire renaître un semblant de vie dans ce lieu qui fut autrefois le cœur battant de notre belle Tarbes. Qui sait, peut-être qu’avec un peu de chance et beaucoup d’audace, nous pourrons rendre hommage à cet ancien centre-ville en lui offrant une seconde chance. Ou tout du moins, une belle épitaphe.
 
 ### original
 
