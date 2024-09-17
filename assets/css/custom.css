@@ -1,0 +1,10 @@
+/* Increase the default font size */
+html {
+    font-size: 14pt;
+}
+
+/* increase logo size https://github.com/nunocoracao/blowfish/discussions/1231
+.max-w-\[5rem\] {
+    max-width: 10rem;
+}
+*/
