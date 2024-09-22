@@ -160,3 +160,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[permalinks]
+  posts = "/:year/:month/:slug/"
+  page = "/:slug/"

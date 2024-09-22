@@ -3,6 +3,39 @@ html {
     font-size: 14pt;
 }
 
+/* cards radius*/
+.border {
+    border-width: 1px;
+    border-radius: 0.5em;
+
+}
+
+/* cards effect
+
+.shadow-2xl (gestion ombre par défaut)
+
+
+
+.boxeffect {
+    transition: box-shadow 0.3s ease; 
+} 
+  
+        
+.boxeffect:hover {    
+    box-shadow: 10px 10px 20px rgba(130, 10, 10, 0.5); 
+}
+
+*/
+
+.min-h-full {
+    transition: box-shadow 0.3s ease; 
+} 
+  
+        
+.min-h-full:hover {    
+    box-shadow: 10px 10px 20px rgba(5, 99, 27, 0.527); 
+}
+
 /* increase logo size https://github.com/nunocoracao/blowfish/discussions/1231
 .max-w-\[5rem\] {
     max-width: 10rem;

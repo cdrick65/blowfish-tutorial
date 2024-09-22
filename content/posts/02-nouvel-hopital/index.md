@@ -1,11 +1,47 @@
 ---
-title: "Hopital (1)"
+title: "Un hôpital neuf, oui, mais à Tarbes !"
 date: 2024-09-15
 draft: false
-#summary: "Ceci est le premier post d'une longue série"
+summary: "« Tarbes Pour Tous » propose la construction d'un complexe de santé neuf sur l'actuel site de Tarbes la Gespe. Un choix de proximité et de bon sens"
 tags: ["hopital"]
 ---
 
+##  Résumé :
+Dans le cadre du débat public lancé par la Commission Nationale du Débat Public (CNDP), la liste « Tarbes Pour Tous », représentée par Pierre Lagonelle, propose une réflexion sur la construction d’un nouvel hôpital pour la région Tarbes-Lourdes. Alors que le site de Lanne semble être privilégié par les autorités, « Tarbes Pour Tous » soulève des questions sur ce choix et présente une alternative : la construction de l'hôpital sur le site de la Gespe, à Tarbes. Ce dernier, mieux situé et moins coûteux, offrirait de nombreux avantages en termes d’accessibilité, d’économie pour les contribuables, et d’impact écologique. De plus, la reconversion de l’actuel hôpital de Tarbes en infrastructures utiles pour la communauté locale représente une opportunité non négligeable. En réponse à l'absence de certaines alternatives dans les scénarios officiels, l'article propose de réexaminer les options pour garantir une décision éclairée, plus respectueuse des enjeux économiques, sociaux, et écologiques.
+
+Descriptif détaillé :
+## Un constat alarmant
+
+Les hôpitaux de Tarbes et de Lourdes ne répondent plus aux standards actuels. Les professionnels de santé sont unanimes : il faut une nouvelle infrastructure. Mais la question du lieu reste cruciale. Si un nouvel hôpital regroupant Tarbes et Lourdes est nécessaire, est-il vraiment judicieux de le construire sur le site de Lanne ? Selon « Tarbes Pour Tous », cette localisation n'attirera pas de nouveaux soignants mais ne fera qu’empêcher les départs actuels.
+
+1. Pourquoi choisir la Gespe ?
+
+« Tarbes Pour Tous » propose une alternative : le site de la Gespe, à Tarbes. Ce dernier présente plusieurs avantages :
+
+Accessibilité optimale : situé près de la rocade, proche de l’autoroute, il est bien connecté aux autres acteurs de santé locaux (IFSI, EFS, cliniques, pompiers).
+Coûts réduits : Les infrastructures nécessaires (eau, électricité, transports) sont déjà en place, contrairement à Lanne où leur création coûterait au moins 12 millions d’euros.
+Moins de déplacements : 3000 personnes devraient rejoindre Lanne chaque jour, augmentant les coûts de transport et l’impact environnemental. La Gespe, en revanche, réduirait ces déplacements.
+Impact écologique limité : Contrairement à Lanne, la Gespe ne nécessiterait pas d’artificialisation massive de terres. La construction à Lanne entraînerait la destruction d'une colline naturelle sur 20 hectares, un impact environnemental significatif.
+3. Les faiblesses du site de Lanne
+
+Les défenseurs du site de Lanne avancent principalement un argument : le barycentre démographique. Toutefois, cette justification apparaît infondée. Le calcul de ce « barycentre » semble erroné, selon les densités de population du département. De plus, la localisation de Lanne augmenterait les temps d'intervention du SAMU de 10 à 15 minutes, un délai critique pour les patients en situation d'urgence.
+
+4. Un choix stratégique pour l'avenir de Tarbes
+
+En plus des avantages immédiats, la construction de l'hôpital sur la Gespe permettrait une reconversion des locaux de l'actuel hôpital de Tarbes. Ces bâtiments pourraient accueillir des commerces, services et hébergements pour les familles, valorisant ainsi le patrimoine urbain et évitant la création d'une friche hospitalière coûteuse à gérer.
+
+5. Une demande de réexamen
+
+« Tarbes Pour Tous » appelle la CNDP à reconsidérer les options, soulignant que toutes les alternatives n’ont pas été suffisamment étudiées. La construction d’un hôpital neuf sur la Gespe ou un projet hybride combinant rénovation partielle et nouvelle construction pourraient offrir des solutions plus économiques, écologiques et socialement responsables.
+
+## Conclusion :
+La santé publique est une priorité, mais le choix de l’emplacement de cet hôpital ne peut être pris à la légère. Pour « Tarbes Pour Tous », la Gespe représente une solution d’avenir qui mérite d’être étudiée avec soin. Il est essentiel que la CNDP fasse preuve de transparence et étudie toutes les alternatives possibles afin de garantir un projet optimal pour Tarbes, Lourdes, et leurs habitants.
+
+
+
+
+
+# Original
 ## Commission Nationale du Débat Public   
 Contribution inscrite au registre numérique 10 juin 2024 Contribution de Pierre Lagonelle et « Tarbes Pour Tous ».
 ### 1 – Un constat 
@@ -22,8 +58,8 @@ Analysons les avantages présentés respectivement par chacun des deux sites, la
 	- Du point de vue écologique, il n’y a aucune comparaison possible entre la Gespe et l’absurdité que représente Lanne où une colline va être artificialisée sur environ 20 hectares à terme, sans compter la durée des études réglementaires qui, compte tenu de la présence de zones humides, seront très longues (étude d’impact environnemental, étude faune flore).    Nombre d’associations, dont Tarbes Pour Tous, veilleront au strict respect des règles.
 	- Pas de perte de chances pour les patients, contrairement à Lanne dont l’éloignement inflige 10 ou 15 minutes de plus au SAMU pour intervenir tant sur Tarbes que sur Lourdes, quand les conditions de fluidité de circulation le permettent. Il en va de même pour la coopération avec la clinique dont les praticiens de certaines spécialités sont amenés à se déplacer à l’hôpital en journée. Cela sera bien plus difficile à Lanne.     
 - « AVANTAGES » DE LANNE 
-                  Les avantages mis en avant par les porteurs du projet et les décideurs sont : le barycentre…le barycentre …et même mieux, le barycentre démographique !
- Le barycentre géographique IGN du 65 se situe à Gerde.  Mais qu’est-ce donc que le barycentre démographique ?  Si l’on regarde la densité des populations, le nord de Tarbes est plus peuplé que le sud, quel est donc le mode de calcul qui impose un barycentre au sud de Tarbes ?
+Les avantages mis en avant par les porteurs du projet et les décideurs sont : le barycentre…le barycentre …et même mieux, le barycentre démographique !
+Le barycentre géographique IGN du 65 se situe à Gerde.  Mais qu’est-ce donc que le barycentre démographique ?  Si l’on regarde la densité des populations, le nord de Tarbes est plus peuplé que le sud, quel est donc le mode de calcul qui impose un barycentre au sud de Tarbes ?
 La notion de barycentre démographique ne serait-elle pas une élucubration à connotation pseudo scientifique pour justifier un choix infondé ?
 Nous ne voyons, pour notre part, aucun argument qui plaide en faveur du site de Lanne.
 Le site de la Gespe a notre préférence, nous l’avons dit.  Outre le fait que la réserve foncière du site, 100.000 mètres carré environ, permet la construction d'un hôpital neuf, ce choix offrirait l’énorme avantage de faciliter la reconversion des locaux de l’actuel hôpital : hébergement des familles, commerces, services associés, extension ultérieure…. Cette opportunité de reconversion apporte une forte plus-value au projet. A ce jour il n'existe aucune solution de reconversion du site de la Gespe et l'hôpital à Lanne conduirait de facto à la création d'une immense friche à l'entrée de Tarbes avec des frais de gardiennage évalués à plus de 100.000 euros par an.

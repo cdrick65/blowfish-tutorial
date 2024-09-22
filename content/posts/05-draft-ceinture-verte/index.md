@@ -1,9 +1,14 @@
 ---
 title: "Projet de ceinture verte"
 date: 2024-09-15
-draft: false
-##summary: "Ceci est le premier post d'une longue série"
+showDate: false
+draft: true
+summary: "Un premier sondage"
 tags: ["projet", "ecologie", "ceinture verte"]
+showComments: true
+showLikes: true
+showViews: true
+showTableOfContents: false
 ---
 
 ## La « Ceinture Verte »
