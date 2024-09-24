@@ -52,9 +52,12 @@ Votre voix est importante. Ensemble, faisons de Tarbes une ville où chacun se s
 > **Note :** D'autres sondages suivront pour continuer à prendre le pouls de notre communauté. Merci de votre participation !
 
 
-{{< alert icon="bell" cardColor="primary-500" iconColor="#1d3557" textColor="#f1faee" >}}
+{{<alert>}}
 N'oubliez pas de suivre nos réseaux sociaux pour rester informés des résultats et des prochaines étapes !
-{{< /alert >}}
+{{</alert >}}
+
+
+## Sondage en ligne
 
 
 {{< iframe "https://framaforms.org/sondage-pour-les-tarbaises-1725369892" >}}
