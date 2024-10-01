@@ -5,11 +5,11 @@ description: "This page was built using the Blowfish theme for Hugo."
 <div class="flex px-4 py-2 mb-8 text-base">
 {{< typeit 
   tag=h3
-  speed=80
+  speed=1000
   breakLines=false
   loop=true
 >}}
-Candidat à la mairie de Tarbes
+Votre candidat à la mairie de Tarbes
 Un projet pour développer et faire vivre Tarbes
 Avec une équipe à l'écoute de tous
 {{< /typeit >}}

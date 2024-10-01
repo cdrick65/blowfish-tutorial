@@ -17,7 +17,7 @@ title = "TARBES POUR TOUS"
  [params.author]
    name = "Pierre Lagonelle"
    email = "pierre.lagonelle@orange.fr"
-   image = "img/author.jpg"
+   image = "img/author.png"
 #   imageQuality = 96
    headline = "" #sous le logo de la page principale
    bio = "TARBES POUR TOUS"
@@ -39,7 +39,7 @@ title = "TARBES POUR TOUS"
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+     { instagram = "https://www.instagram.com/pierre.lagonelle/" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
