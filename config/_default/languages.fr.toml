@@ -12,15 +12,15 @@ title = "TARBES POUR TOUS"
   logo = "img/logo.png"
   secondaryLogo = "img/logo.png"
   description = "Le site de TARBES POUR TOUS"
-  copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "Copyright TARBES POUR TOUS 2024"
 
  [params.author]
    name = "Pierre Lagonelle"
    email = "pierre.lagonelle@orange.fr"
    image = "img/author.jpg"
 #   imageQuality = 96
-   headline = "Tarbes pour Tous"
-   bio = "A propos de Tarbes pour tous"
+   headline = "" #sous le logo de la page principale
+   bio = "TARBES POUR TOUS"
    links = [
      { email = "mailto:pierre.lagonelle@orange.fr" }, #TODO changer an contact@tarbespourtous.fr ou webmaster ou contact ou admin
 #     { link = "https://link-to-some-website.com/" },

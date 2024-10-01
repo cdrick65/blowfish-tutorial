@@ -36,8 +36,19 @@ html {
     box-shadow: 10px 10px 20px rgba(5, 99, 27, 0.527); 
 }
 
-/* increase logo size https://github.com/nunocoracao/blowfish/discussions/1231
+/* increase logo size https://github.com/nunocoracao/blowfish/discussions/1231 */
 .max-w-\[5rem\] {
     max-width: 10rem;
 }
+
+/* Taille de l'image de profil arrondi   9rem par defaut    => mieux vaut passer en h-48 => 12 rem   sur le home
+
+.w-36 {
+    width: 13rem;
+}
+
+.w-36 {
+    height: 13rem;
+}
+
 */
